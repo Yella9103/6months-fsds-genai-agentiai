@@ -1,0 +1,21 @@
+Rules to define python variables
+
+1.variables doesn't start with numbers but can end with numbers
+2.variable case sensitive (if we mention variable in lower case and calls in upper case)
+3.special characteries are not allowed in variable (only underscore is allowed '_')
+4.keywords can't be variable 
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del','elif','else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+
+Error types
+
+compile time error
+run time error
+logical error
+
+Data types
+
+Integer
+float
+bool
+string
+complex
